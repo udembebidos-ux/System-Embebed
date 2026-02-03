@@ -1,15 +1,15 @@
-# Embebidos
-Creación de un robot movil recolector de basura
+# System Embebed
+Creation of a mobile garbage-collecting robot
 
-## Componentes
-* 2 Motorreductores
-* 3 Ruedas delgadas
+## Components
+* 2 Motoreductos
+* 3 Whell slim
 * 2 Encoders
-* 3 Servomotores
-* 1 Brazo
-* 1 Rueda loca
-* 1 Fuente de alimentación
+* 3 Servomotors
+* 1 Arm
+* 1 Idler whell   
+* 1 Source
   
-## Planeacion
-## Taller
+## Planeation
+## Project
 
