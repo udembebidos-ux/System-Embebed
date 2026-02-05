@@ -19,21 +19,19 @@ This project involves the design and development of a robot car capable of auton
 
 ### Core Components
 - 1x Raspberry Pi Pico 2W
-- 1x Robot car chassis with 2-4 wheels
-- 2x DC motors with gearboxes
+- 1x Robot car chassis with 2 wheels
+- 2x DC motors with gearboxes and encoder
 - 1x Motor driver (L298N or equivalent)
-- 1x HC-SR04 ultrasonic sensor module
-- 2-3x Infrared sensors (for line following)
-- 1x Battery pack (7.4V recommended)
-- 1x 5V voltage regulator
-- Jumper wires, breadboard, and connectors
-
-### Optional Components
-- Servo motor for sensor mounting
-- Status indicator LEDs
-- Buzzer for audio feedback
-- Speed sensors (rotary encoders)
-- IMU module (accelerometer/gyroscope)
+- 2-3x Infrared sensors (for line following maybe)
+- 1x remote control
+- 1-2x Powerbanks
+- 1x 5V to 5V and 3.3V voltage regulator
+- Jumper wires, PCB, and connectors
+- 1x 3d printed arm
+- 4x servos
+- 1x ultrasonic sensor
+- 1x OV7670 Camera
+- 1x OLED Screen
 
 ## 📁 Project Structure
 ├── 📄 main.py # Main entry point
